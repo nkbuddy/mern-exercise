@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://localhost:3000/edit/6467e031256c71e92b3401c3",
+            "request": "launch",
+            "url": "http://localhost:3000/edit/6467e031256c71e92b3401c3"
+        }
+    ]
+}
